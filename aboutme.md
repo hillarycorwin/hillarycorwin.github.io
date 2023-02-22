@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Research
+subtitle: Past and current research projects
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## **Peer-Reviewed Publications**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Corwin, Hillary. 2023. "Coercive and catalytic strategies for human rights promotion: State violence and foreign assistance." _World Development_. Accepted for publication 21 February, 2023.
 
-What else do you need?
+## **Dissertation*
 
-### My story
+- Coercive and catalytic strategies for promoting human rights
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## **Works in Progress**
+
+- "Human rights, foreign aid, and the return of great power competition: The effect of Belt and Road Initiative agreements on OECD donors’ human rights promotion strategies.”
