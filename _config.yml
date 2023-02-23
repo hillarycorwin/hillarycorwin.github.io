@@ -21,7 +21,7 @@ author: Hillary G. Corwin
 
 navbar-links:
   Research: "research"
-  CV: "cv"
+  Download CV: "https://github.com/hillarycorwin/hillarycorwin.github.io/blob/master/docs/20230223_cv_hillary_corwin.pdf"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
