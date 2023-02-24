@@ -25,6 +25,9 @@ navbar-links:
     - Basic Econometrics: "basic_econometrics"
     - Experimental Methods: "experimental_methods"
     - Causal Inference: "causal_inference"
+    - Panel and Hierarchical Data: "panel_multilevel"
+    - Inferential Networks: "network_analysis"
+    - Maximum Likelihood Estimation: "mle"
   #Download CV: "docs/20230223_cv_hillary_corwin.pdf"
   Download CV: "https://github.com/hillarycorwin/hillarycorwin.github.io/blob/master/docs/20230223_cv_hillary_corwin.pdf"
   #Resources:
