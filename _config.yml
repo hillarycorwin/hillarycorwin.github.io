@@ -25,8 +25,8 @@ navbar-links:
   #  - Basic Econometrics: "docs/basic_econometrics"
   #  - Experimental Methods: "docs/experimental_methods"
   #  - Causal Inference: "docs/causal_inference"
-  Download CV: "docs/20230223_cv_hillary_corwin.pdf"
-  #Download CV: "https://github.com/hillarycorwin/hillarycorwin.github.io/blob/master/docs/20230223_cv_hillary_corwin.pdf"
+  #Download CV: "docs/20230223_cv_hillary_corwin.pdf"
+  Download CV: "https://github.com/hillarycorwin/hillarycorwin.github.io/blob/master/docs/20230223_cv_hillary_corwin.pdf"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
