@@ -1,3 +1,7 @@
+---
+layout: home
+title: Experimental Methods Notes
+---
 # McDermott 2002 “Experimental Methods in Political Science"
 
 ## Experimental Design
