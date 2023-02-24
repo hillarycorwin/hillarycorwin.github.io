@@ -159,7 +159,7 @@ Angrist and Pischke motivate regression somewhat differently.
     where *ϵ*<sub>*i*</sub> is mean independent of
     *X*<sub>*i*</sub>(*E*\[*ϵ*<sub>*i*</sub>\|*X*<sub>*i*</sub>\]) = 0
     and
-    $\\epsilon_i \\protect\\mathpalette{\\protect\\independenT}{\\perp}X_i$
+    $\\epsilon_i {\\perp}X_i$
 
 -   Any random variable *Y*<sub>*i*</sub> can be broken into the part
     “explained by *X*<sub>*i*</sub>" and an orthogonal residual.
@@ -208,7 +208,7 @@ causal effect:
     interference between units*.
 
     -   No interference:
-        $Y\_{0i},Y\_{0j}\\protect\\mathpalette{\\protect\\independenT}{\\perp}D_j \\forall i\\neq j$.
+        $Y\_{0i},Y\_{0j} {\\perp}D_j \\forall i\\neq j$.
         The treatment of one unit cannot affect other units.
 
     -   Well-defined treatment: *D*<sub>*i*</sub> = *D*∀*i*
@@ -390,9 +390,9 @@ only related to *Y* through *D*. The instrumental variable approach is a
 solution to violations of the conditional independence assumption
 (ommitted variable bias). That is, if a set of *X*<sub>*i*</sub>
 variables cannot be found such that
-$(D_i\|X_i) \\protect\\mathpalette{\\protect\\independenT}{\\perp}\\epsilon_i$,
+$(D_i\|X_i) {\\perp}\\epsilon_i$,
 but
-$Z_i \\protect\\mathpalette{\\protect\\independenT}{\\perp}\\epsilon_i$
+$Z_i {\\perp}\\epsilon_i$
 and *C**o**r**r*(*X*<sub>*i*</sub>,*Z*<sub>*i*</sub>) ≠ 0, then
 *Z*<sub>*i*</sub> is a source of exogenous variation in the causal
 relationship between *D* and *Y*. Through *Z*’s effect of *D* it is
@@ -601,11 +601,9 @@ by using covariates.
 
 <div class="wrapfigure">
 
-l
-
 <div class="center">
 
-![image](RDD.PNG)
+![Regression discontinuity illustration](/assets/img/RDD.PNG?raw=true "Regression discontinuity illustration")
 
 </div>
 
@@ -801,8 +799,7 @@ causal estimate:
 l
 
 <div class="center">
-
-![image](DID.PNG)
+![Difference-in-difference illustration](/assets/img/DID.PNG?raw=true "Difference-in-difference illustration")
 
 </div>
 
@@ -962,13 +959,13 @@ weighted average of *Y* of the other units at the pretreatment period.
 The weighted average of Y for control units is called synthetic unit.
 
 <figure>
-<img src="SC-WHOLESAMPLE.PNG" id="fig:A"
+<img src="/assets/img/SC-WHOLESAMPLE.PNG" id="fig:A"
 alt="California vs Rest of U.S." />
 <figcaption aria-hidden="true">California vs Rest of U.S.</figcaption>
 </figure>
 
 <figure>
-<img src="SC-SYNTHUNIT.PNG" id="fig:B"
+<img src="/assets/img/SC-SYNTHUNIT.PNG" id="fig:B"
 alt="California vs Synthetic California" />
 <figcaption aria-hidden="true">California vs Synthetic
 California</figcaption>
@@ -1193,7 +1190,7 @@ provides a useful insight about the causal relationship.
 
 ## Choosing Between Causal Inference Methods
 
-<img src="CICHART.PNG" alt="image" />
+<img src="/assets/img/CICHART.PNG" alt="image" />
 
 # Previous Comp Questions
 
