@@ -1,3 +1,7 @@
+---
+layout: home
+title: Causal Inference Notes
+---
 # Potential Outcomes and the Fundamental Problem of Causal Inference
 
 ## Fundamental Problem of Causal Inference
