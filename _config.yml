@@ -22,9 +22,9 @@ author: Hillary G. Corwin
 navbar-links:
   Research: "research"
   Quantitative Methodology Notes: 
-    - Basic Econometrics: "docs/basic_econometrics"
-    - Experimental Methods: "docs/experimental_methods"
-    - Causal Inference: "docs/causal_inference"
+    - Basic Econometrics: "basic_econometrics"
+    - Experimental Methods: "experimental_methods"
+    - Causal Inference: "causal_inference"
   #Download CV: "docs/20230223_cv_hillary_corwin.pdf"
   Download CV: "https://github.com/hillarycorwin/hillarycorwin.github.io/blob/master/docs/20230223_cv_hillary_corwin.pdf"
   #Resources:
