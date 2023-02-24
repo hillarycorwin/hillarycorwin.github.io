@@ -1,3 +1,7 @@
+---
+layout: home
+title: Basic Econometrics Notes
+---
 # Preliminaries
 
 1.  **Disturbance (Error) Term**
