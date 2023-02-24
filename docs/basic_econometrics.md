@@ -2,7 +2,9 @@
 
 1.  **Disturbance (Error) Term**
 
-    1.  The economic theory that consumption is a function of income *C* = *f*(*Y*) is **deterministic**, where *C* represents consumption and *Y* represents income.
+    1.  The economic theory that consumption is a function of income
+        *C* = *f*(*Y*) is **deterministic**, where *C* represents
+        consumption and *Y* represents income.
 
     2.  The econometrician adds a disturbance (or error) term so that
         *C* = *f*(*Y*) + *u*, where *u* is the disturbance term. This
@@ -496,7 +498,7 @@ estimators, not just linear ones.
     Independence**
 
     -   <span
-        style="color: red">$x_i \\protect\\mathpalette{\\protect\\independenT}{\\perp}u_i$</span>
+        style="color: red">$x_i  {\\perp}u_i$</span>
 
     -   **Fixed X Values or X Values Independent of the Error Term**:
         Values taken by the regressor *X* may be considered fixed in
@@ -1220,7 +1222,7 @@ population parameters. This requires four assumptions to be met:
 2.  Full Rank \[*R**a**n**k*(*X*) = *K*\]
 
 3.  Strict Exogeneity
-    \[$X\\protect\\mathpalette{\\protect\\independenT}{\\perp}Y$\]
+    \[$X {\\perp}Y$\]
 
 4.  Spherical Error Variance \[*E*(*ϵ*) = 0,
     *V**a**r*(*ϵ*) = *σ*<sub>*ϵ*</sub><sup>2</sup>,
@@ -1385,7 +1387,7 @@ The GMT assumptions are:
 and no heteroskedasticity
 *V**a**r*(*u*<sub>*i*</sub>) = *E*\[*u*<sub>*i*</sub>−*E*(*u*<sub>*i*</sub>\|*X*<sub>*i*</sub>)\]<sup>2</sup>)  
 (4) Strict Exogeneity
-$x_i \\protect\\mathpalette{\\protect\\independenT}{\\perp}\\epsilon_i$
+$x_i  {\\perp}\\epsilon_i$
 (X fixed in repeated observations or stochastic and
 *c**o**v*(*X*<sub>*i*</sub>,*u*<sub>*i*</sub>) = 0, zero conditional
 mean *E*(*u*\|*X*) = 0, strict exogeneity *E*(*u*\|*X*) = *E*(*u*))
