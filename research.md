@@ -7,6 +7,7 @@ subtitle: Past and current research projects
 ## **Peer-Reviewed Publications**
 
 - Corwin, Hillary. 2023. "Coercive and catalytic strategies for human rights promotion: State violence and foreign assistance." _World Development_. Accepted for publication 21 February, 2023.
+  -   [Preprint](https://hillary-corwin.owlstown.net/publications/3082.pdf) and [Replication Files](https://doi.org/10.7910/DVN/S9HOVI)
 
 ## **Dissertation**
 
