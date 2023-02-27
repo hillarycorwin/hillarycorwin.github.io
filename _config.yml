@@ -30,9 +30,10 @@ navbar-links:
     - Maximum Likelihood Estimation: "mle"
   #Download CV: "docs/20230223_cv_hillary_corwin.pdf"
   Download CV: "https://github.com/hillarycorwin/hillarycorwin.github.io/blob/master/docs/20230223_cv_hillary_corwin.pdf"
-  #Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Resources:
+    - Data Visualization Guide: "https://socviz.co/"
+    - R for Data Visualization: "https://rkabacoff.github.io/datavis/"
+    - Causal Inference: "https://mixtape.scunning.com/"
   #Author's home: "https://deanattali.com"
 
 ################
@@ -63,7 +64,7 @@ social-network-links:
   ORCID: 0000-0002-3538-7773
   google-scholar: citations?user=k8L3VRsAAAAJ&hl=en
   github: hillarycorwin
-  kaggle: hillarycorwin
+#  kaggle: hillarycorwin
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
