@@ -31,8 +31,8 @@ navbar-links:
   #Download CV: "docs/20230223_cv_hillary_corwin.pdf"
   Download CV: "https://github.com/hillarycorwin/hillarycorwin.github.io/blob/master/docs/20230223_cv_hillary_corwin.pdf"
   Resources:
-    - Data Visualization Guide: "https://socviz.co/"
-    - R for Data Visualization: "https://rkabacoff.github.io/datavis/"
+    - Data Viz Guide: "https://socviz.co/"
+    - R for Data Viz: "https://rkabacoff.github.io/datavis/"
     - Causal Inference: "https://mixtape.scunning.com/"
   #Author's home: "https://deanattali.com"
 
