@@ -21,10 +21,10 @@ author: Hillary G. Corwin
 
 navbar-links:
   Research: "research"
-  Quant. Methods Notes: 
-    - Basic Econometrics: "basic_econometrics"
-    - Experimental Methods: "experimental_methods"
-    - Causal Inference: "causal_inference"
+  #Quant. Methods Notes: 
+  #  - Basic Econometrics: "basic_econometrics"
+  #  - Experimental Methods: "experimental_methods"
+  #  - Causal Inference: "causal_inference"
     #- Panel and Hierarchical Data: "panel_multilevel"
     #- Inferential Networks: "networks"
     #- Maximum Likelihood Estimation: "mle"
