@@ -34,6 +34,8 @@ navbar-links:
     - Data Viz Guide: "https://socviz.co/"
     - R for Data Viz: "https://rkabacoff.github.io/datavis/"
     - Causal Inference: "https://mixtape.scunning.com/"
+    - MySQL data types: "https://www.w3schools.com/mysql/mysql_datatypes.asp"
+    - MySQL functions: "https://www.w3schools.com/mysql/mysql_ref_functions.asp"
   #Author's home: "https://deanattali.com"
 
 ################
